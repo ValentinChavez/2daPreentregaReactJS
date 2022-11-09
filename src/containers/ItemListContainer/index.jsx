@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ItemList from '../../components/ItemList';
-// import yerbaMate from '../../assets/yerba-mate.webp';
+
 import { useParams } from 'react-router-dom';
 
 const ItemListContainer = ({ greeting }) => {
